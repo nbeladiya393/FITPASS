@@ -6,13 +6,16 @@
         <entry key="..\:/FITPASS/app/src/main/res/drawable/buttoncolor.xml" value="0.1445" />
         <entry key="..\:/FITPASS/app/src/main/res/drawable/buttonwelcome.xml" value="0.1445" />
         <entry key="..\:/FITPASS/app/src/main/res/drawable/darkbackground.xml" value="0.1445" />
+        <entry key="..\:/FITPASS/app/src/main/res/drawable/editbutton.xml" value="0.1445" />
         <entry key="..\:/FITPASS/app/src/main/res/drawable/linear_gradient.xml" value="0.1445" />
         <entry key="..\:/FITPASS/app/src/main/res/layout/activity_dark_background.xml" value="0.22826086956521738" />
         <entry key="..\:/FITPASS/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/FITPASS/app/src/main/res/layout/activity_main2.xml" value="0.22826086956521738" />
+        <entry key="..\:/FITPASS/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/FITPASS/app/src/main/res/layout/activity_verification.xml" value="0.22826086956521738" />
         <entry key="..\:/FITPASS/app/src/main/res/layout/activity_welcome_page.xml" value="0.22826086956521738" />
         <entry key="..\:/FITPASS/app/src/main/res/layout/activity_welcomepage.xml" value="0.22826086956521738" />
         <entry key="..\:/FITPASS/app/src/main/res/layout/darkbackground.xml" value="0.22826086956521738" />
+        <entry key="..\:/FITPASS/app/src/main/res/layout/resetpassword.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>
